@@ -1,27 +1,20 @@
-# Afame-Technologies-ML
 
-## Projects Completed - **2**
+# 🚀 Afame-Technologies-ML
 
-### Task 2 -> CUSTOMER CHURN PREDICITON
+## 🌟 Projects Completed - **2**
 
+### Task 2 -> **📉 CUSTOMER CHURN PREDICTION**
 
-**Dataset:**
-It is the dataset of a U.S. bank customer for getting the information that , this particular customer will leave
-bank or not.
+**🗂 Dataset:**  
+This dataset contains information about U.S. bank customers, providing insights into whether a particular customer is likely to leave the bank or not.
 
-**Objective:**
-Develop a model to predict customer churn for a subscription- based service or business. Use historical
-customer data, including features like usage behavior and customer demographics, and try algorithms like
-Logistic Regression, Random Forests, or Gradient Boosting to predict churn.
+**🎯 Objective:**  
+The goal is to develop a predictive model for customer churn in a subscription-based service or business. Using historical customer data, including usage behavior and demographics, we will apply machine learning algorithms like Logistic Regression, Random Forests, or Gradient Boosting to predict customer churn.
 
-### Task 4 -> SPAM SMS DETECTION
+### Task 4 -> **📲 SPAM SMS DETECTION**
 
+**🗂 Dataset:**  
+The SMS Spam Collection is a dataset of 5,574 SMS tagged messages collected for spam research. Each message is labeled as either ham (legitimate) or spam.
 
-**Dataset:**
-The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It
-contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
-
-**Objective:**
-Build an AI model that can classify SMS messages as spam or legitimate. Use techniques like TF-IDF or word
-embeddings with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify spam
-messages
+**🎯 Objective:**  
+The aim is to build an AI model capable of classifying SMS messages as either spam or legitimate. Techniques like TF-IDF and word embeddings will be combined with classifiers such as Naive Bayes, Logistic Regression, or Support Vector Machines to accurately identify spam messages.
