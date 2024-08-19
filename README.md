@@ -1,5 +1,5 @@
 
-# 🚀 Afame-Technologies-ML
+# 🚀 Afame Technologies ML
 
 ## 🌟 Projects Completed - **2**
 
